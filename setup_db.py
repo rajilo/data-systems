@@ -10,3 +10,6 @@ class Machine:
 
     def count_data(self):
         pass
+
+    def count(self):
+        pass
